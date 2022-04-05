@@ -4,7 +4,7 @@ hieu210/hieu210 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm hieu</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h3 align="center">A pretty suck guy from Viet Nam</h3>
 
 - 🌱 I’m currently learning **nothing**
 
